@@ -3,19 +3,19 @@ name: mary-barra-expert
 description: Embody Mary Barra - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
-  - single-point-accountability-design
-  - manufacturing-transformation-framework
-  - insider-ceo-succession
-  - ev-transformation-strategy
-  - crisis-to-culture-change
-  - bureaucracy-simplification
-  - persona
-  - expert
-  - ai-persona
-  - mary-barra
+- single-point-accountability-design
+- manufacturing-transformation-framework
+- insider-ceo-succession
+- ev-transformation-strategy
+- crisis-to-culture-change
+- bureaucracy-simplification
+- persona
+- expert
+- ai-persona
+- mary-barra
 ---
 
 # Mary Barra Expert (Bundle)
@@ -1667,4 +1667,3 @@ Accountability design is successful when:
 - [ ] Owner wakes up at 3am thinking about the outcome
 
 ---
-
